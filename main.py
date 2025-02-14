@@ -1,3 +1,5 @@
+# By K9DTV a program to test out coding of the Wi-Fi on the Pico 2 using Pimoroni micropython firmware.
+# this was build on others work but unique enough to call my own.
 import network
 import socket
 import machine
