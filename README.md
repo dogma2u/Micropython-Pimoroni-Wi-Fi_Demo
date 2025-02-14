@@ -4,11 +4,8 @@ Testing out some basic wifi on the rp pico 2 W using Pimoroni micropython
 This project uses the following items;
 
 (1) RP Pico 2 W					(pishop.us)
-
 (1) Waveshare UPS Module for Raspberry Pi Pico 	(AliExpress.us)
-
 (1) Expansion Board Pi Pico Dual GPIO Expander 	(AliExpress.us)
-
 (1) Pimoroni Pico Plus 2 W                     	(pimoroni.com)
 
 
