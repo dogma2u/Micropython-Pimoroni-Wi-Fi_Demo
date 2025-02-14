@@ -31,9 +31,11 @@ pico_on.jpg
 
 Run main.py
 
-The display anfd Thonny console should show you the local IP of the pico's web server.
+The display and Thonny console should show you the local IP of the pico's web server.
 Paste this address in a web broswer address bar and hit enter.
 
 A web page should come up.
 
 ![Screenshot 2025-02-14 150940](https://github.com/user-attachments/assets/c50a31c8-6f99-43b6-ab48-5673441958e7)
+
+Use the Turn ON/OFF buttons to control the onboard LED.
