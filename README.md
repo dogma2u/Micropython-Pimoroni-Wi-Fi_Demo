@@ -24,3 +24,4 @@ Paste this address in a web broswer address bar nd hot enter.
 
 A web page should come up.
 ![20250214_144243](https://github.com/user-attachments/assets/a494b83a-1509-4828-83d3-ab63bf2453a1)
+![Screenshot 2025-02-14 150940](https://github.com/user-attachments/assets/c50a31c8-6f99-43b6-ab48-5673441958e7)
