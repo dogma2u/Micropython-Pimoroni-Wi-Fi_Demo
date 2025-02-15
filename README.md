@@ -9,7 +9,7 @@ This project uses the following items;
 
 (1) Expansion Board Pi Pico Dual GPIO Expander 	(AliExpress.us)
 
-(1) Pimoroni Pico Plus 2 W                     	(pimoroni.com)
+(1) Pimoroni Pico Display Pack 2.0             (pimoroni.com)
 
 
 
