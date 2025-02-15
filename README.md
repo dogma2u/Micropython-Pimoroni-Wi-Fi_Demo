@@ -39,3 +39,8 @@ A web page should come up.
 ![Screenshot 2025-02-14 150940](https://github.com/user-attachments/assets/c50a31c8-6f99-43b6-ab48-5673441958e7)
 
 Use the Turn ON/OFF buttons to control the onboard LED.
+
+![Pix_system](https://github.com/user-attachments/assets/35be2125-01fa-4998-82d3-115bc03c9951)
+
+And the LCD display should change as well.
+
