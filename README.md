@@ -9,9 +9,9 @@ This project uses the following items;
 
 (1) Expansion Board Pi Pico Dual GPIO Expander 	(AliExpress.us)
 
-(1) Pimoroni Pico Display Pack 2.0             (pimoroni.com)
+(1) Pimoroni Pico Display Pack 2.0             (Pimoroni.com)
 
-
+(1) 14500 battery                              (Amazon.com)
 
 ![20250214_144243](https://github.com/user-attachments/assets/a494b83a-1509-4828-83d3-ab63bf2453a1)
 
