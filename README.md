@@ -34,7 +34,7 @@ Run main.py
 The display and Thonny console should show you the local IP of the pico's web server.
 Paste this address in a web broswer address bar and hit enter.
 
-NOTE: If running on battery power, it may time some time to connect and the LCD screen to come up.
+NOTE: If running on battery power, it may take some time to connect and the LCD screen to come up.
 
 A web page should come up.
 
