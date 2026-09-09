@@ -1,0 +1,31 @@
+# Compile-check main.py for Pico 2 W (MicroPython syntax to .mpy bytecode).
+# Does not run on hardware or connect to Wi-Fi.
+
+name: Compile
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build mpy-cross
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq build-essential python3 git
+          git clone --depth 1 --branch v1.24.1 https://github.com/micropython/micropython.git /tmp/micropython
+          make -C /tmp/micropython/mpy-cross -j"$(nproc)"
+          sudo install -m 755 /tmp/micropython/mpy-cross/build/mpy-cross /usr/local/bin/mpy-cross
+
+      - name: Compile main.py
+        run: |
+          mpy-cross -march=armv7m main.py
+          test -f main.mpy
