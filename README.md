@@ -1,4 +1,7 @@
 # Micropython-Pimoroni-Wi-Fi_Demo
+
+[![Compile](https://github.com/dogma2u/Micropython-Pimoroni-Wi-Fi_Demo/actions/workflows/compile.yml/badge.svg)](https://github.com/dogma2u/Micropython-Pimoroni-Wi-Fi_Demo/actions/workflows/compile.yml)
+
 Testing out some basic wifi on the rp pico 2 W using Pimoroni micropython
 
 This project uses the following items;
