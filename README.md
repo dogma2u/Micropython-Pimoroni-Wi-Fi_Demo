@@ -2,6 +2,8 @@
 
 [![Compile](https://github.com/dogma2u/Micropython-Pimoroni-Wi-Fi_Demo/actions/workflows/compile.yml/badge.svg)](https://github.com/dogma2u/Micropython-Pimoroni-Wi-Fi_Demo/actions/workflows/compile.yml)
 
+**Project page:** https://k9dtv.com/project-pico-wifi.html
+
 Testing out some basic wifi on the rp pico 2 W using Pimoroni micropython
 
 This project uses the following items;
@@ -48,4 +50,3 @@ Use the Turn ON/OFF buttons to control the onboard LED.
 ![Pix_system](https://github.com/user-attachments/assets/35be2125-01fa-4998-82d3-115bc03c9951)
 
 And the LCD display should change as well.
-
